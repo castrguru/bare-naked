@@ -1,4 +1,4 @@
-# Castr GÜRŲ Bare Naked Kit
+# Bare Naked Frame Kit by Castr GÜRŲ
 
 ### https://bare-naked.castr.guru
 
