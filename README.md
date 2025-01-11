@@ -1,4 +1,4 @@
-# Bare Naked Frame Kit by Castr GÜRŲ
+# Bare Naked by Castr GÜRŲ
 
 ### https://bare-naked.castr.guru
 
@@ -36,3 +36,11 @@ Then open your web browser to [__http://0.0.0.0:8000/__](http://0.0.0.0:8000/).
   }
 }
 ```
+
+## Licenses
+
+Bare Naked frame kit is DUAL-licensed:
+
+- The source code is available under the [__MIT license__](LICENSE).
+- ALL media assets _(images, audio & video files, etc.)_ are [__CC0 1.0__](https://creativecommons.org/publicdomain/zero/1.0/).
+<br />🌟 __<u>NO</u> ATTRIBUTION REQUIRED .. ENJOY!__ 🌟
